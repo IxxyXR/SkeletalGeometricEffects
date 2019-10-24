@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.unity.package-manager-ui": "2.0.3",
+    "com.unity.package-manager-ui": "2.0.8",
     "com.unity.postprocessing": "2.1.3",
     "jp.keijiro.cmu-mocap": "https://github.com/keijiro/CMUMocap.git#upm",
     "jp.keijiro.kino.post-processing": "https://github.com/keijiro/Kino.git#upm",
